@@ -1,2 +1,2 @@
 # 1570final
-vanilla final from 1570, with certain comments removed
+The final project from 1570 in its entirety with sensitive information removed. When compiled and run, an automatic game or "simulation" is created in which a tailor character named Milhouse travels door-to-door around a randomly generated town, selling pants, avoiding bullies and evil pairs of pants that spawn along the way. Additional content is included that must be enabled from within the source files.
